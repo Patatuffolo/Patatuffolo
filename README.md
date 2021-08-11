@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Patatuffolo
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java/C/Python/Html/css
-- 📫 How to reach me IG: Patatuffolo, Discord: Patatuffolo#2738
+- Hi, I’m @Patatuffolo
+- I’m currently learning Java/C/Python/Html/css
+- You can reach me on 
+- - IG: Patatuffolo
+- - Discord: Patatuffolo#2738
