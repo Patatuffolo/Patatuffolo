@@ -3,3 +3,4 @@
 - You can reach me on 
 - - IG: Patatuffolo
 - - Discord: Patatuffolo#2738
+- - Telegram: @Patatuffolo
